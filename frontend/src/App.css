@@ -1,0 +1,20 @@
+.window{
+  display: flex;
+  justify-content: space-between;
+}
+.storedPatternsContainer{
+  justify-content: space-between;
+}
+.storedPatternsContainer p{
+  margin: 0;
+  padding: 0;
+  width: 20px;
+  height: 20px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.patternArray{
+  display: flex;
+}
